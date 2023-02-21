@@ -1,2 +1,2 @@
 # ejemploPVE
-primer ejemplo con GIT
+primer ejemplo con GIT mas texto
